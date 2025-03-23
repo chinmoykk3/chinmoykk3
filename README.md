@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoykk3&show_icons=true&locale=en" alt="chinmoykk3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoykk3&" alt="chinmoykk3" /></p>
+
+insta--@chinmoyk.ie
