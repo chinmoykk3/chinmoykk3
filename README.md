@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Chinmoykk3@gmail.com**
 
-- ⚡ Fun fact **i think i wold never gate a internship**
+- ⚡ Fun fact **i think i would never gate a internship**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +27,7 @@
 <a href="https://twitter.com/kkchinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkchinmoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chinmoy kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy kalita" height="30" width="40" /></a>
 <a href="https://fb.com/chin moy kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chin moy kalita" height="30" width="40" /></a>
+<a href="https://instagram.com/chinmoyk.ie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmoyk.ie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
