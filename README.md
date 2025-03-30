@@ -37,4 +37,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoykk3&theme=default" alt="chinmoykk3" /></p>
 
-@chinmoy-strixx
