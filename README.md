@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Chinmoykk3@gmail.com**
 
-- ⚡ Fun fact **i think i would never get a internship**
+- ⚡ Fun fact **i think i would never get a internshpp.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
