@@ -1,39 +1,113 @@
-<h1 align="center">Hi 👋, I'm Chinmoy Kalita</h1>
-<h3 align="center">A learning and Passionate developer from india</h3>
+# CHINMOY KALITA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmoykk3&label=Profile%20views&color=0e75b6&style=flat" alt="chinmoykk3" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kkchinmoy" target="blank"><img src="https://img.shields.io/twitter/follow/kkchinmoy?logo=twitter&style=for-the-badge" alt="kkchinmoy" /></a> </p>
-
-- 🔭 I’m currently working on **my portfolio website**
-
-- 🌱 I’m currently learning **react , java , figma**
-
-- 👯 I’m looking to collaborate on **any webdev related projects**
-
-- 🤝 I’m looking for help with **ecommerce website**
-
-- 📫 How to reach me **Chinmoykk3@gmail.com** **https://chinmoyk-ie.vercel.app/**
-
-- ⚡ Fun fact **i think i would never get a internship.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to chinmoykk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to chinmoykk3" height="30" width="40" /></a>
-<a href="https://twitter.com/kkchinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkchinmoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chinmoy kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy kalita" height="30" width="40" /></a>
-<a href="https://fb.com/chin moy kalita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chin moy kalita" height="30" width="40" /></a>
-<a href="https://instagram.com/chinmoyk.ie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmoyk.ie" height="30" width="40" /></a>
+<p align="center">
+  <samp>DEVELOPER · CREATIVE TECHNOLOGIST · AI EXPLORER</samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">
+  Building things for the web. Exploring things beyond it.
+</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoykk3&show_icons=true&locale=en&layout=compact" alt="chinmoykk3" /></p>
+<p align="center">
+  <a href="https://chinmoyk-ie.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/kkchinmoy">Twitter</a> &nbsp;·&nbsp;
+  <a href="mailto:Chinmoykk3@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoykk3&theme=default" alt="chinmoykk3" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chinmoykk3&style=flat&color=888888&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
+---
+
+### 01 / THE PERSON
+
+I'm Chinmoy, a developer and creative thinker from India.
+
+I'm interested in the intersection of software engineering, artificial intelligence and visual design.
+
+I enjoy turning ideas into functional products, experimenting with new technologies and building things that solve real problems.
+
+Currently exploring:
+- Full-stack web development
+- AI-powered applications and intelligent systems
+- UI/UX design and creative development
+- Software architecture and problem solving
+
+> I don't just want to learn how technology works. I want to build something meaningful with it.
+
+### 02 / CURRENTLY BUILDING
+
+| Project | Description |
+|---|---|
+| **Personal Portfolio** | A storytelling-driven portfolio showcasing my work and identity. |
+| **Sahyog Cryptos** | Blockchain intelligence and VASP attribution system. |
+| **GCU Campus Flow** | An AI-powered campus lost-and-found platform. |
+| **Librarium 2.0** | Library management system with an AI chatbot. |
+
+### 03 / TECH STACK
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
+</p>
+
+**Frontend & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" />
+</p>
+
+### 04 / GITHUB ACTIVITY
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinmoykk3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoykk3&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoykk3&theme=transparent&hide_border=true" />
+</p>
+
+### 05 / BEYOND THE CODE
+
+- 🎨 Exploring graphic design and visual storytelling.
+- 💡 Constantly experimenting with new ideas.
+- 🚀 Interested in building products that make a difference.
+- 🤝 Open to collaboration, open-source projects and learning opportunities.
+
+### 06 / LET'S CONNECT
+
+Have an interesting idea, project or opportunity?
+
+Let's build something together.
+
+<p align="center">
+  <a href="mailto:Chinmoykk3@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-222222?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/kkchinmoy">
+    <img src="https://img.shields.io/badge/TWITTER-Follow-222222?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://chinmoyk-ie.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Explore-222222?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <samp>DESIGNED WITH CURIOSITY. BUILT WITH CODE.</samp>
+</p>
